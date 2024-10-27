@@ -1,4 +1,4 @@
-with open('/content/0067_triangle.txt', 'r') as f:
+with open('Project_euler/funções e arquivos/0067_triangle.txt', 'r') as f:
   tri = f.read()
 l = tri.split('''
 ''')

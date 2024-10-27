@@ -1,5 +1,5 @@
 import numpy as np
-with open('/0102_triangles.txt', 'r') as f:
+with open('Project_euler/funções e arquivos/0102_triangles.txt', 'r') as f:
   tri = f.read()
 
 nn = tri.split("""
