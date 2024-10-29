@@ -56,6 +56,7 @@ def isprime(x):
   return True
 
 def ispal(x):
+  x=str(x)
   if x==x[::-1]:
     return True
   else:
